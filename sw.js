@@ -1,5 +1,5 @@
 // CAMPIVIO Service Worker — Offline-First
-const CACHE_NAME = 'campivio-v1';
+const CACHE_NAME = 'campivio-v2';
 const ASSETS = [
     '/',
     '/index.html',
