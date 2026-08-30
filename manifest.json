@@ -1,0 +1,29 @@
+{
+    "name": "CAMPIVIO — Education Discovery Platform",
+    "short_name": "CAMPIVIO",
+    "description": "Discover, compare, and choose college opportunities that fit your profile, budget, and goals.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#f3eefa",
+    "theme_color": "#3D206E",
+    "orientation": "any",
+    "scope": "/",
+    "lang": "en",
+    "icons": [
+        {
+            "src": "icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["education", "productivity"],
+    "screenshots": [],
+    "prefer_related_applications": false
+}
